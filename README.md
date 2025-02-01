@@ -90,4 +90,4 @@ The **Streamlit-based web app** provides an **interactive UI** for users to:
 ## 📞 Contact  
 If you have any questions or suggestions, feel free to reach out:  
 📧 **Email:** keskartejas01@gmail.com  
-📌 **LinkedIn:** https://github.com/Tejas-Keskar
+📌 **LinkedIn:** https://www.linkedin.com/in/tejas-keskar-329634288
