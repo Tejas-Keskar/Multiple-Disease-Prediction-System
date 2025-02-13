@@ -20,7 +20,7 @@ Built with **Python, Machine Learning, and Streamlit**, this project provides an
 ---
 
 ## 🛠 **Technologies Used**  
-- **Python** 🐍  
+- **Python** 
 - **Scikit-learn** (Machine Learning)  
 - **Pandas & NumPy** (Data Processing)  
 - **Streamlit** (Web App Development)  
